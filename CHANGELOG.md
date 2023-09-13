@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/jorgenavben/prueba-release-please/compare/v1.0.0...v2.0.0) (2023-09-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* really big and important change
+
+### Features
+
+* another incredible change ([99b097d](https://github.com/jorgenavben/prueba-release-please/commit/99b097dedaf1ef3acfbbc603695c0078ce853119))
+* really big and important change ([178e303](https://github.com/jorgenavben/prueba-release-please/commit/178e303cb31cb7e29b790b0361ae4ef0bb64d1c5))
+
 ## 1.0.0 (2023-09-13)
 
 
