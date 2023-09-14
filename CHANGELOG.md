@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/jorgenavben/prueba-release-please/compare/v2.1.0...v2.1.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* all tabs ([c4c1bd4](https://github.com/jorgenavben/prueba-release-please/commit/c4c1bd4dffdf855f9c7ccd0387ec1dc10158f827))
+
 ## [2.1.0](https://github.com/jorgenavben/prueba-release-please/compare/v2.0.0...v2.1.0) (2023-09-14)
 
 
